@@ -7,7 +7,7 @@ For this project I used a variety of supervised machine learning techniques to t
 
 # Overview
 
-The project utilized both Resampling models and Ensemble classifiers to create and test several models.   The Resampling models seek to overcome the data sampling imbalance inherent in predicting risk.  The proportion of observed high-risk to low-risk applicants in the data set is approximately 250 - 51,000, meaning a model that accurately predicted high-risk 95% of the time could technically perform worse than not predicting any risk.  To deal with this imbalance, the SciKit-Learn library has created different methods to either scale up the smaller group (oversampling) or scale down the larger population (undersampling) or combine both approaches (over and under sampling)
+The project utilized both Resampling models and Ensemble classifiers to create and test several models.   The Resampling models seek to overcome the data sampling imbalance inherent in predicting risk.  The proportion of observed high-risk to low-risk applicants in the data set is approximately 250 - 51,000  meaning a model that accurately predicted high-risk 95% of the time could technically perform worse than not predicting any risk.  To deal with this imbalance, the SciKit-Learn library has created different methods to either scale up the smaller group (oversampling) or scale down the larger population (undersampling) or combine both approaches (over and under sampling)
 
 The Ensamble method starts instead by taking a single decision-making approach which is unlikely to work well with generalized data outside of the training environment and replicating many hundreds or thousands of iterations to create a more robust predictive model.  
 
