@@ -85,4 +85,4 @@ Describe the balanced accuracy, precision, and recall of all six models:
 
 # Summary 
 
-The Easy Ensamble method delivers the best results of the supervised machine learning methods tested.
+According to the results delivered here, The Random Forrest method delivers the best combination of precision for high- and low-risk, as well as a strong F1 result for the weighted average of true positive results  
