@@ -85,4 +85,4 @@ Describe the balanced accuracy, precision, and recall of all six models:
 
 # Summary 
 
-According to the results delivered here, The Random Forrest method delivers the best combination of precision for high- and low-risk, as well as a strong F1 result for the weighted average of true positive results  
+According to the results delivered here, The Random Forrest method delivers the best combination of precision for high- and low-risk.  While the Easy Ensamble method delivers the best balanced accuracy results, the Random Forrest has higher precision for high-risk as well as a strong F1 result for the weighted average of true positive results  
