@@ -29,18 +29,18 @@ Describe the balanced accuracy, precision, and recall of all six models:
 
 ![header](images/naive.png)
 
-**Balanced accuracy:** .674
-**Precision:** low for high risk, high for low risk
-**Recall:** high/low risk = .74/.61 
+- **Balanced accuracy:** .674
+- **Precision:** low for high risk, high for low risk
+- **Recall:** high/low risk = .74/.61 
 
 
 ### SMOTE:
 
 ![header](images/smote.png)
 
-**Balanced accuracy:** .662
-**Precision:** low for high-risk, high for low-risk
-**Recall:** high/low risk = .63/.69
+- **Balanced accuracy:** .662
+- **Precision:** low for high-risk, high for low-risk
+- **Recall:** high/low risk = .63/.69
 
 ## Undersampling
 
@@ -48,9 +48,9 @@ Describe the balanced accuracy, precision, and recall of all six models:
 
 ![header](images/centroid.png)
 
-**Balanced accuracy:** .571
-**Precision:** low for high-risk, high for low-risk
-**Recall:** high/low risk = .56/.58
+- **Balanced accuracy:** .571
+- **Precision:** low for high-risk, high for low-risk
+- **Recall:** high/low risk = .56/.58
 
 
 ## Combination (over-and under-sampling)
@@ -59,9 +59,9 @@ Describe the balanced accuracy, precision, and recall of all six models:
 
 ![header](images/smoteen.png)
 
-**Balanced accuracy:** .644
-**Precision:** low for high-risk, high for low-risk
-**Recall:** high/low risk = .72/.57
+- **Balanced accuracy:** .644
+- **Precision:** low for high-risk, high for low-risk
+- **Recall:** high/low risk = .72/.57
 
 ## Ensamble
 
@@ -69,9 +69,9 @@ Describe the balanced accuracy, precision, and recall of all six models:
 
 ![header](images/rf.png)
 
-**Balanced accuracy:** .644
-**Precision:** higher for high-risk, low for low-risk
-**Recall:** high/low risk = .36/1.0
+- **Balanced accuracy:** .644
+- **Precision:** higher for high-risk, high for low-risk
+- **Recall:** high/low risk = .36/1.0
 
  ### Easy Ensemble
 
@@ -79,9 +79,9 @@ Describe the balanced accuracy, precision, and recall of all six models:
 
 ![header](images/ee.png)
 
-**Balanced accuracy:** .93
-**Precision:** highest for high-risk, high for low-risk
-**Recall:** high/low risk = .36/1.0
+- **Balanced accuracy:** .93
+- **Precision:** highest for high-risk, low for low-risk
+- **Recall:** high/low risk = .36/1.0
 
 # Summary 
 
