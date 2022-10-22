@@ -21,7 +21,7 @@ So how to tell what a model that works well looks like?
 
 Describe the balanced accuracy, precision, and recall of all six models:
 
-# Resampling techniques:
+## Resampling techniques:
 
 ## Oversampling
 
