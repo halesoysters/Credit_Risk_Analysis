@@ -70,7 +70,7 @@ Describe the balanced accuracy, precision, and recall of all six models:
 ![header](images/rf.png)
 
 - **Balanced accuracy:** .644
-- **Precision:** higher for high-risk, high for low-risk
+- **Precision:** high for high-risk, high for low-risk
 - **Recall:** high/low risk = .36/1.0
 
  ### Easy Ensemble
@@ -80,7 +80,7 @@ Describe the balanced accuracy, precision, and recall of all six models:
 ![header](images/ee.png)
 
 - **Balanced accuracy:** .93
-- **Precision:** highest for high-risk, low for low-risk
+- **Precision:** low for high-risk, low for low-risk
 - **Recall:** high/low risk = .36/1.0
 
 # Summary 
